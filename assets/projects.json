@@ -1,0 +1,16 @@
+[
+  {
+    "title": "LoLedge — LoLクイズ＆知識プラットフォーム",
+    "description": "Flaskで実装したLoLクイズ・Akinatorなど。",
+    "repo": "https://github.com/aTeNa0001/website_lol_quiz",
+    "demo": "https://loledge.com/",
+    "image": "assets/img/loledge.png"
+  },
+  {
+    "title": "新規プロジェクト名",
+    "description": "何を・どう作ったかを1行で。",
+    "repo": "https://github.com/username/repo",
+    "demo": "",
+    "image": "assets/img/new_project.png"
+  }
+]
